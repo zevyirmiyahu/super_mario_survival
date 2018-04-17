@@ -10,6 +10,10 @@ Every aspect of this game was hand made. All code was written in Java. The game 
 ## Images
 
 ![main menu image](https://github.com/zevyirmiyahu/super_mario_survival/blob/master/marioScreen1.png)
+
 ![game image](https://github.com/zevyirmiyahu/super_mario_survival/blob/master/marioScreen2.png)
+
 ![game over image](https://github.com/zevyirmiyahu/super_mario_survival/blob/master/marioScreen3.png)
+
+![Benjamin Bannekat](http://octodex.github.com/images/octdrey-catburn.jpg)
 
