@@ -9,7 +9,7 @@ Every aspect of this game was hand made. All code was written in Java. The game 
 
 ## Images
 
-![Menu Screen](zevyirmiyahu.github.io/images/Mario_Images/marioScreen1.png)
-![Game Play](zevyirmiyahu.github.io/images/Mario_Images/marioScreen2.png)
-![Game Over Screen](zevyirmiyahu.github.io/images/Mario_Images/marioScreen3.png)
+![Menu Screen](https://zevyirmiyahu.github.io/images/Mario_Images/marioScreen1.png)
+![Game Play](https://zevyirmiyahu.github.io/images/Mario_Images/marioScreen2.png)
+![Game Over Screen](https://zevyirmiyahu.github.io/images/Mario_Images/marioScreen3.png)
 
