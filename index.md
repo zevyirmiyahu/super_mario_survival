@@ -9,7 +9,7 @@ Every aspect of this game was hand made. All code was written in Java. The game 
 
 ## Images
 
-![main menu image](super_mario_survival/marioScreen1.png)
+![main menu image](https://github.com/zevyirmiyahu/super_mario_survival/blob/master/marioScreen1.png)
 ![game image]({{ site.url }}/assets/marioScreen2.png)
 ![game over image]({{ site.url }}/assets/marioScreen3.png)
 
