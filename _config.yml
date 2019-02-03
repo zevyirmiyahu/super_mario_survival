@@ -1,6 +1,6 @@
-title: Student Report Generator
+title: Super Mario Survival
 logo: /assets/img/GitHub-Mark-120px-plus.png
-description: Program outputs a random student report with the parameters specified by the user.
+description: Mario survival game
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
