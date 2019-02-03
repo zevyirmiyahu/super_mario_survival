@@ -1,1 +1,6 @@
-theme: jekyll-theme-architect
+title: Student Report Generator
+logo: /assets/img/GitHub-Mark-120px-plus.png
+description: Program outputs a random student report with the parameters specified by the user.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
